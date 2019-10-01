@@ -13,8 +13,8 @@ int main()
 	coladera(vec,1000);
 	mostrar(vec,1000);
 	
-	get.cin;
-	get.cin;
+	cin.get();
+	cin.get();
 	}
 void llenaruno(int vec[], int n)
 {
